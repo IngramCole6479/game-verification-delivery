@@ -1,0 +1,1 @@
+"""Game verification example package."""
